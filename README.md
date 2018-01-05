@@ -1,8 +1,6 @@
 
 # *pipeline*
 
-Trying something new
-
 *pipeline* is  an all-batteries-included utility which consumes IOS XR
 telemetry streams directly from the router or indirectly from a
 publish/subscribe bus. Once collected, *pipeline* can perform some
